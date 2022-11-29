@@ -53,7 +53,7 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer" alt="Typing SVG" /></a></h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
 
 From Kerala, India. Goal-oriented Full Stack Web Developer with a Full-Stack-web-Development(fullTime) and 1200hr Coding experience from Masai School and looking to enhance my professional experience with an IT company specializing in web development..<br>
 
