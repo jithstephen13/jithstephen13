@@ -57,7 +57,7 @@
 
 From Kerala, India. Goal-oriented Full Stack Web Developer with a Full-Stack-web-Development(fullTime) and 1200hr Coding experience from Masai School and looking to enhance my professional experience with an IT company specializing in web development..<br>
 
-
+<div align="center" >
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jth________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithstephen13) 
 
@@ -76,8 +76,13 @@ From Kerala, India. Goal-oriented Full Stack Web Developer with a Full-Stack-web
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+  </div> 
+
+
+ <img alt="jithstephen13 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jithstephen13&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jithstephen13&icon=1&color=0)](https://visitcount.itsvg.in)
 
--- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+<!-- -- Proudly created with GPRM ( https://gprm.itsvg.in ) 
+ -->
