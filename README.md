@@ -49,7 +49,7 @@
 
  ![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 
-# 💫 About Me:
+# 💫 Hi 👋, I'm Jith Stephen
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 <h3 align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1&center=true&vCenter=true&width=250&height=40&lines=Full+Stack+Developer" alt="Typing SVG" /></a></h3>
 
