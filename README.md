@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
 
-From Kerala, India. Goal-oriented Full Stack Web Developer with a Full-Stack-web-Development(fullTime) and 1200hr Coding experience from Masai School and looking to enhance my professional experience with an IT company specializing in web development..<br>
+From Kerala, India. a motivated developer working at Edstem Technologies. With Full Stack expertise from Masai School, I’m passionate about crafting impactful, user-focused solutions that drive meaningful results.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jth________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithstephen13) 
